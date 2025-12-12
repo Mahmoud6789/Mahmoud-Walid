@@ -1,0 +1,7 @@
+{
+  "name": "G-Back",
+  "description": "A high-fidelity physical therapy prototype demonstrating individual and social gamification strategies for chronic low back pain patients.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
